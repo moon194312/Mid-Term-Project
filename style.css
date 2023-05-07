@@ -31,27 +31,16 @@ a{
     transition: 0.3%;
 }
 
+h2{
+    font-family: 'Noto Sans KR', sans-serif;
+    color: #384B60;
+
+}
+
 .detail{
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 3000;
     font-size: 20px;
-}
-
-.recent-menu{
-    font-family: 'Noto Sans KR', sans-serif;
-    font-size: 15px;
-    font-weight: 700;
-    color:#BEDAFA;
-}
-
-.recent-menu{
-    font-family: 'Noto Sans KR', sans-serif;
-    font-size: 15px;
-    font-weight: 700;
-    color: #5E92C4;
-
-    text-align: right;
-    margin-top: 100px;
 }
 
 .footer{
@@ -63,4 +52,21 @@ a{
     font-weight: 300;
     margin-left: 15px;
     margin-bottom: 100px;
+}
+
+
+/*profile-section*/
+
+.profile-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: flex-start;
+
+    margin: 100px 100px;
+}
+
+#profile-picture{
+    width: 400px;
+    margin-right: 200px;
 }
