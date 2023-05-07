@@ -1,0 +1,32 @@
+body{
+    background-color: #C2E3A3;
+}
+
+.frame{
+    margin: 30px 150px;
+    display: flex;
+    flex-direction: column;
+}
+
+li{
+    display: inline;
+    align-self: center;
+    margin: 0;
+    margin-left: 15px
+}
+
+ul{
+    margin: 0;
+}
+
+.site-name{
+   margin: 0;
+   font-family: 'Noto Sans KR', sans-serif;
+   font-size: 24px;
+   color:#C2E3A3;
+}
+
+a{
+    color: black;
+    transition: 0.3%;
+}
