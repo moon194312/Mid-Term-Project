@@ -79,6 +79,12 @@ body{
     margin-left: 70px;
 }
 
+.value-video{
+    width: 300px;
+    height: 300px;
+    margin-left: 70px;
+}
+
 .value-intro{
     margin-left: 30px;
 }
